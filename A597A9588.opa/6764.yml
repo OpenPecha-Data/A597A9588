@@ -1,0 +1,12 @@
+segment_sources:
+  ICE4D99C4:
+    type: translation
+    relation: source
+    lang: BO
+    base: '9593'
+  I6107BA2E:
+    type: translation
+    relation: target
+    lang: BO
+    base: '3969'
+segment_pairs: {}
